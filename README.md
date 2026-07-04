@@ -85,7 +85,8 @@ Production-style monitoring dashboard featuring:
 
 Predict applicant creditworthiness, generate credit scores, classify borrowers into risk tiers, and visualize feature contributions using SHAP.
 
-> *(Insert Screenshot 1 here)*
+<img width="1241" height="803" alt="image" src="https://github.com/user-attachments/assets/f76c54b2-5d4e-4982-95b9-ef4cb501e5e3" />
+
 
 ---
 

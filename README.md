@@ -182,18 +182,20 @@ Risk Classification
 
 ---
 
-# 🛠️ Technology Stack
+# 🏗️ Technical Architecture
 
-| Category | Tools |
-|----------|------|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Machine Learning | Scikit-learn |
-| Explainability | SHAP |
-| Visualization | Matplotlib, Seaborn |
-| Dashboard | Streamlit |
-| LLM | Llama 3 (Groq API) |
-| Deployment | Streamlit |
+The application combines traditional credit risk modeling with modern AI technologies to deliver an end-to-end decisioning platform. Each component has a dedicated role, from data preprocessing and scorecard development to explainability, portfolio analytics, AI-assisted underwriting, and deployment.
+
+| Component | Technology | Description |
+|-----------|------------|-------------|
+| **Data Processing** | Pandas, NumPy | Data ingestion, preprocessing, exploratory analysis, feature engineering, and WoE/IV transformations. |
+| **Credit Risk Modeling** | Scikit-learn, Statsmodels | Logistic Regression scorecard development, Probability of Default (PD) estimation, and credit score generation. |
+| **Explainability** | SHAP | Explains individual credit decisions by identifying the contribution of each feature to the applicant's credit score. |
+| **Portfolio Analytics** | Pandas, Matplotlib, Seaborn | Portfolio-level risk analysis, stress testing, default rate estimation, and capital loss visualization. |
+| **Generative AI** | LangChain, Groq API, Llama 3 | AI-powered underwriting assistant for customer communication and technical explanation of model decisions. |
+| **Dashboard** | Streamlit | Interactive web application for loan officers and risk managers to evaluate applicants and monitor portfolio performance. |
+| **Model Monitoring** | Python, Matplotlib | Simulates model health monitoring, concept drift detection, and score stability tracking. |
+| **Deployment** | Streamlit | Local deployment of the interactive credit risk decision engine. |
 
 ---
 

@@ -94,7 +94,8 @@ Predict applicant creditworthiness, generate credit scores, classify borrowers i
 
 Analyze portfolio-level default risk and simulate changing macroeconomic conditions.
 
-> *(Insert Screenshot 2 here)*
+<img width="1476" height="834" alt="image" src="https://github.com/user-attachments/assets/c347b45c-808f-46ae-b3be-75485c6fe016" />
+
 
 ---
 

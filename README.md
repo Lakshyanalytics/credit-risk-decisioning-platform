@@ -103,7 +103,7 @@ Analyze portfolio-level default risk and simulate changing macroeconomic conditi
 
 Generate customer communication and explain model decisions using Llama 3.
 
-![Uploading image.png…]()
+<img width="1474" height="807" alt="image" src="https://github.com/user-attachments/assets/ea145245-0860-4e5f-892e-12187543a707" />
 
 
 ---
@@ -112,7 +112,8 @@ Generate customer communication and explain model decisions using Llama 3.
 
 Track score stability and monitor concept drift in production.
 
-> *(Insert Screenshot 4 here)*
+![Uploading image.png…]()
+
 
 ---
 

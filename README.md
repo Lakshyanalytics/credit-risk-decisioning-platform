@@ -103,7 +103,8 @@ Analyze portfolio-level default risk and simulate changing macroeconomic conditi
 
 Generate customer communication and explain model decisions using Llama 3.
 
-> *(Insert Screenshot 3 here)*
+![Uploading image.png…]()
+
 
 ---
 

@@ -103,7 +103,9 @@ Analyze portfolio-level default risk and simulate changing macroeconomic conditi
 
 Generate customer communication and explain model decisions using Llama 3.
 
-<img width="1474" height="807" alt="image" src="https://github.com/user-attachments/assets/ea145245-0860-4e5f-892e-12187543a707" />
+<img width="1498" height="794" alt="image" src="https://github.com/user-attachments/assets/5c32d99c-b0da-4997-86cf-79ee63cb9e99" />
+
+<img width="1489" height="789" alt="image" src="https://github.com/user-attachments/assets/d5cedd15-1f68-4531-9581-c24999943c9f" />
 
 
 ---

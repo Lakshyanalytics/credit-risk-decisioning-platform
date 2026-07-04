@@ -112,7 +112,7 @@ Generate customer communication and explain model decisions using Llama 3.
 
 Track score stability and monitor concept drift in production.
 
-![Uploading image.png…]()
+<img width="1474" height="807" alt="image" src="https://github.com/user-attachments/assets/ea145245-0860-4e5f-892e-12187543a707" />
 
 
 ---
